@@ -1,0 +1,13 @@
+torch==2.3.0
+transformers>=4.27.4
+huggingface-hub==0.36.0
+numpy==1.26.4
+pandas==2.3.3
+tqdm
+jupyter
+notebook
+matplotlib
+seaborn
+scikit-learn==1.7.2
+datasets
+umap-learn

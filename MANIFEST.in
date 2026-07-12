@@ -1,0 +1,3 @@
+include absynth/trained_models/absynth-a/*
+include absynth/trained_models/absynth-m/*
+include absynth/tokenizer/*

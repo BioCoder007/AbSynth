@@ -1,0 +1,64 @@
+AbSynth Non-Commercial Software License Agreement
+
+Copyright (c) 2024-2026 Amman Safeer. All rights reserved.
+
+This license applies to the AbSynth source code, trained model weights,
+tokenizer, and associated documentation contained in this repository
+(collectively, the "Software").
+
+1. GRANT OF LICENSE — NON-COMMERCIAL USE
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of the Software, to use, copy, modify, merge, and distribute copies
+of the Software, for any Non-Commercial Purpose, subject to the following
+conditions:
+
+  a. The above copyright notice and this permission notice shall be
+     included in all copies or substantial portions of the Software.
+
+  b. "Non-Commercial Purpose" means academic research, personal
+     experimentation, educational use, and evaluation, in each case
+     where the Software (or any results, models, or sequences derived
+     from it) is not used, incorporated into, or distributed as part of
+     a product or service for which any party receives payment or other
+     commercial benefit.
+
+2. DERIVATIVE WORKS
+
+You may build tools, software, pipelines, or extensions on top of the
+Software for academic, research, or educational purposes, free of charge,
+provided they remain non-commercial. If any derivative work becomes a
+product or service that generates revenue — directly or indirectly — a
+commercial license is required under Section 3.
+
+3. COMMERCIAL USE
+
+Any use of the Software for a commercial purpose — including without
+limitation use within a for-profit company or organization, incorporation
+into a commercial product or service, use to provide paid services to
+third parties, or use of generated outputs (sequences, embeddings, or
+predictions) in a revenue-generating pipeline — requires a separate
+commercial license from the copyright holder. To obtain a commercial
+license, contact:
+
+    amman.safeer00@gmail.com
+
+4. CITATION
+
+Any publication, thesis, or public presentation that uses the Software
+or results derived from it must cite AbSynth. Refer to the repository
+README for current citation details.
+
+5. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+
+Any use of the Software in violation of this license automatically
+terminates the rights granted herein.

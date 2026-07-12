@@ -1,0 +1,25 @@
+name: absynth
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.15
+  - pip=26.1.1
+  - numpy=1.26.4
+  - pandas=2.3.3
+  - scikit-learn=1.7.2
+  - matplotlib
+  - seaborn
+  - h5py
+  - tqdm
+  - jupyter
+  - notebook
+  - pip:
+    - transformers>=4.27.4
+    - torch==2.3.0
+    - huggingface-hub==0.36.0
+    - tokenizers==0.13.3
+    - datasets
+    - Bio
+    - pyarrow==24.0.0
