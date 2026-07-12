@@ -182,8 +182,7 @@ Or run interactively in [plot_embeddings_demo.ipynb](plot_embeddings_demo.ipynb)
 
 ## Models
 
-Pre-trained model weights are **not** included in this repository due to file size.  
-Download them separately and place under `absynth/trained_models/`.
+Pre-trained model weights are included in this repository under `absynth/trained_models/`.
 
 | Model | Architecture | Parameters |
 |---|---|---|

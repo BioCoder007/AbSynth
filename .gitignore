@@ -15,9 +15,7 @@ env/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Model weights (too large for git — distribute separately)
-absynth/trained_models/
-*.bin
+# Model weights (absynth/trained_models/ is tracked; other formats stay excluded)
 *.pt
 *.pth
 *.safetensors
