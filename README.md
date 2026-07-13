@@ -204,7 +204,7 @@ See [LICENSE](./LICENSE) for full terms. Contact amman.safeer00@gmail.com for co
 If you use AbSynth in your work, please cite:
 
 ```bibtex
-@misc{absynth2024,
+@misc{absynth2026,
   title  = {AbSynth: Generative Framework for Humanised Antibody Sequence Design},
   year   = {2024},
 }
